@@ -1,0 +1,3 @@
+# app-ads.txt for nervesstudio.com
+# Add the AdMob line here once the AdMob account has its publisher id, for example:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
